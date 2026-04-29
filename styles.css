@@ -1,0 +1,22 @@
+.grid{
+    display: flex;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+
+.alinhamento{padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.botao{
+    background-color: black
+    ;border: none;
+    color: white;
+    padding: 20px 34px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
